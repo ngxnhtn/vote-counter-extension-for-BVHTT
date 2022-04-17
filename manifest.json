@@ -1,0 +1,23 @@
+{
+    "name": "Vote Counter for Ban VH-TT",
+    "author": "ngxnhtn",
+    "manifest_version": 3,
+    "version": "0.0.1",
+    "description": "Công cụ hỗ trợ cho Ban Văn hoá - Thể thao để đếm số lượng người vote theo các hình thức khác nhau. Công cụ được phát triển bởi Như Tiến (ngxnhtn)",
+    "permissions": [
+        "tabs"
+    ],
+    "host_permissions": [
+        "*://*/*"
+    ],
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "content_scripts": [
+        {
+            "matches": ["https://*.facebook.com/*"],
+            "js": ["content.js"],
+            "css": ["content.css"]
+        }
+    ]
+}

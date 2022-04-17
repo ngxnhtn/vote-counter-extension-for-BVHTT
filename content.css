@@ -1,0 +1,44 @@
+.ngxnhtn-like {
+    padding: 5px;
+}
+
+.ngxnhtn-like-valid {
+    color: green
+}
+
+.ngxnhtn-like-invalid {
+    color: red
+}
+
+.ngxnhtn-comment-valid {
+    color: green
+}
+
+.ngxnhtn-comment-invalid {
+    color: red
+}
+
+.ngxnhtn-comment-reason {
+    color: red;
+    padding: 5px;
+}
+
+.ngxnhtn-comment-count {
+    padding: 5px;
+}
+
+.ngxnhtn-share-valid {
+    color: green
+}
+
+.ngxnhtn-share-invalid {
+    color: red
+}
+
+.ngxnhtn-share {
+    padding: 5px;
+}
+
+.ngxnhtn-share-reason {
+    color: red;
+}

@@ -4,7 +4,18 @@ This tool was made in order to assist the Ban Van hoa - The thao in counting vot
 
 ## Some images
 
-- Main interface: ![main interface](/img/main.png)
-- Like count: ![like count](/img/like.png)
-- Comment count: ![comment count](/img/comment.png)
-- Share count: ![share count](/img/share.png)
+- Main interface:
+
+<img src="./img/main.png" width="50%">
+
+- Like count:
+
+<img src="./img/like.png" width="50%">
+
+- Comment count:
+
+<img src="./img/comment.png" width="50%">
+
+- Share count:
+
+<img src="./img/share.png" width="50%">
